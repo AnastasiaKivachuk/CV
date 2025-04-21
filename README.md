@@ -1,1 +1,1 @@
-This is my CV that is deploed on https://anastasiakivachuk.github.io/CV/
+This is my CV that is deployed on https://anastasiakivachuk.github.io/CV/
